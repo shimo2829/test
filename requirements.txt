@@ -1,1 +1,8 @@
-
+streamlit
+pandas
+matplotlib
+openpyxl
+requests
+mplcursors
+plotly
+streamlit-echarts
